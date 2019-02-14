@@ -1,0 +1,9 @@
+/*Begin Navbar Styling*/
+.nav-wrapper{
+    background-color: rgb(20, 20, 131);
+}
+
+nav .brand-logo{
+    padding-left: 20px;
+}
+/*End Navbar Styling*/
